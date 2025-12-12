@@ -1,8 +1,6 @@
 # Shadow of the Atom
 A retro-future apocalypse RPG of mutants, mayhem, and atomic adventure powered by [Shadow of the Weird Wizard RPG](https://schwalbentertainment.com/shadow-of-the-weird-wizard/)
 
-`Copyright 2025 by Shane Harsch`
-
 > **Under an Atomic Sky**  
 > I went out walking  
 > Under an atomic sky  
