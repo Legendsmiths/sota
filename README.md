@@ -1,6 +1,5 @@
 # Shadow of the Atom
 
-> **Under an Atomic Sky**  
 > I went out walking  
 > Under an atomic sky  
 > Where the ground won't turn and the rain it burns  
